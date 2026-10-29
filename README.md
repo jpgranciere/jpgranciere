@@ -56,8 +56,8 @@ Graduando em **Análise e Desenvolvimento de Sistemas** pela UNIMAR (previsão d
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [**safe-passwords (Cofre)**](https://github.com/jpgranciere/safe-passwords) | Gerenciador de senhas local para Windows, com criptografia AES-256-GCM + Argon2id, TOTP e extensão para Chrome/Edge. Sem nuvem, conta ou servidor. | C# |
-| [**inventory-management-api**](https://github.com/jpgranciere/inventory-management-api) / [**web**](https://github.com/jpgranciere/inventory-management-web) | Sistema de gestão de estoque, com API e interface web. | Java, CSS |
-| [**zemar-api**](https://github.com/jpgranciere/zemar-api) / [**front-end**](https://github.com/jpgranciere/zemar-api-front-end) | API e front-end para a loja de produtos de limpeza Zemar. | Java, JavaScript |
+| [**stockflow-api**](https://github.com/jpgranciere/stockflow-api) / [**web**](https://github.com/jpgranciere/stockflow-web) | Sistema de gestão de estoque, com API e interface web. | Java, CSS |
+| [**zemar-loja-api**](https://github.com/jpgranciere/zemar-loja-api) / [**web**](https://github.com/jpgranciere/zemar-loja-web) | API e front-end para a loja de produtos de limpeza Zemar. | Java, JavaScript |
 
 ---
 
