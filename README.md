@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaogranciere"><img src="https://img.shields.io/badge/LinkedIn-joaogranciere-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Mar%C3%ADlia%2C_SP-36BF73?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADS-UNIMAR_(2026)-1F2937?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 ## Sobre mim
